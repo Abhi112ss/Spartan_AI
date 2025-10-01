@@ -342,7 +342,7 @@ def main():
     init_database()
 
     # Sidebar navigation
-    st.sidebar.title("🚀 AI Multi-Tool App")
+    st.sidebar.title("🚀 Spartan AI")
     st.sidebar.write("Built with Streamlit, Gemini AI, and SQLite")
 
     page = st.sidebar.radio(
