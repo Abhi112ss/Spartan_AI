@@ -333,7 +333,7 @@ def expense_tracker_page():
 # Main App
 def main():
     st.set_page_config(
-        page_title="AI Multi-Tool App",
+        page_title="Spartan AI",
         page_icon="🚀",
         layout="wide"
     )
